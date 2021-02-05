@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 ,RTS La1ere
+http://stream.srg-ssr.ch/la-1ere/aacp_96.m3u
+#EXTINF:-1 ,RTS Espace2
+http://stream.srg-ssr.ch/espace-2/mp3_128.m3u
+#EXTINF:-1 ,RTS Couleur 3
+http://stream.srg-ssr.ch/couleur3/aacp_96.m3u
+#EXTINF:-1 ,Grrif
+http://grrif.ice.infomaniak.ch:80/grrif-64.aac
+#EXTINF:-1 ,Rouge FM
+http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
+#EXTINF:-1 ,RTN
+http://www.rtn.ch/RTN/live/rtn-high.mp3.m3u
+#EXTINF:-1 ,Lausanne FM
+http://broadcast.infomaniak.ch/lausannefm-high.mp3
+#EXTINF:-1 ,Bigbeat FM
+http://relay.radio.ethz.ch:8001/bigbeat.mp3
+#EXTINF:-1 ,Frequence Banane
+http://fbpc5.frequencebanane.ch:8001/
+
+
+
+
+
+
+
+
+
